@@ -11,7 +11,7 @@ $(call inherit-product, vendor/bcr/bcr.mk)
 
 ## Features
 
-* Supports Android 9 through 13
+* Supports Android 9 through 14 QPR2
 * Supports output in various formats:
   * OGG/Opus - Lossy, smallest files, default on Android 10+
   * M4A/AAC - Lossy, smaller files, default on Android 9
